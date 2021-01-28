@@ -1,0 +1,6 @@
+.text-area {
+	-fx-color: #2F2F2F;
+	-fx-control-inner-background: #2F2F2F;
+	-fx-text-fill: white;
+	-fx-border-color: green;
+}
