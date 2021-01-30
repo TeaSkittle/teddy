@@ -1,8 +1,8 @@
-# Teddy
+# Tedi
 
 ### Overview
 
-This project is a text editor with extra features and programs built in, similar in concept to GNU/Emacs, but this is no emacs and is not meant to be a replacement for one. Simply I have always wanted to create a real text editor, and this is my contribution to the other thousands that are out there. I have already created a simple line-based editor ( influenced by the classic UNIX ed ) which was written in POSIX sh. You can find the repo for that here: [ted]( https://github.com/TeaSkittle/ted ). So this project is my take on writting a GUI editor with more features and that can be actually used from day-to-day. Inspired by the naming convention used in vim ( and due to the fact this is my second text editor ), I call this editor **tedi**, which is an acronym for: **T**ravis' **ED**itor **I**mproved. **Teddy** is eaiser to understand, so I use that.
+This project is a text editor with extra features and programs built in, similar in concept to GNU/Emacs, but this is no emacs and is not meant to be a replacement for one. Simply I have always wanted to create a real text editor, and this is my contribution to the other thousands that are out there. I have already created a simple line-based editor ( influenced by the classic UNIX ed ) which was written in POSIX sh. You can find the repo for that here: [ted]( https://github.com/TeaSkittle/ted ). So this project is my take on writting a GUI editor with more features and that can be actually used from day-to-day. Inspired by the naming convention used in vim ( and due to the fact this is my second text editor ), I call this editor **tedi**, which is an acronym for: **T**ravis' **ED**itor **I**mproved.
 
 > Although don't underestimate the power of line-based editors, as most of the UNIX core was written in ed! ( don't belive me, read this: http://www.catb.org/~esr/writings/taoup/html/ch13s02.html ).
 
