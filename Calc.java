@@ -7,7 +7,7 @@
 // overview of stack based calc: https://medium.com/@eauditory3/what-are-stack-based-calculators-cf2dbe249264
 //
 
-package teddy;
+package tedi;
 
 import java.util.Stack;
 import java.lang.Math;
