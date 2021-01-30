@@ -4,7 +4,7 @@
 // A simple text editor
 //
 
-package teddy;
+package tedi;
 
 import javafx.application.Application;
 import javafx.event.EventHandler;
