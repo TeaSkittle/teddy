@@ -8,7 +8,7 @@
 //     https://stackoverflow.com/questions/13841884/redirecting-system-out-to-a-textarea-in-javafx
 // 
 
-package teddy;
+package tedi;
 
 import java.util.*;
 import java.util.Stack;
